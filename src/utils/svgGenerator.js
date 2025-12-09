@@ -81,7 +81,7 @@ export function createSVG(boxData, options = {}) {
     </g>
   `
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${viewBoxWidth}" height="${viewBoxHeight}" viewBox="0 0 ${viewBoxWidth} ${viewBoxHeight}">
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${viewBoxWidth} ${viewBoxHeight}">
     ${svgContent}
   </svg>`
 }
