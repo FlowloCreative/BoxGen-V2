@@ -2,6 +2,10 @@
 
 Professional box dieline generator for paper and cardboard packaging. Create custom patterns with multiple styles, advanced parameters, 3D preview, and export to SVG/PDF.
 
+## 🌐 Live Demo
+
+**[Try it now!](https://flowlocreative.github.io/BoxGen-V2/)**
+
 ![BoxGen V2](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
